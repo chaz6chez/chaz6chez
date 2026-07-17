@@ -1,6 +1,6 @@
 
 ## 🐇 Chaz6Chez  
->  **后端工程师 · Golang / Python / PHP / Zig**  
+>  **后端工程师 · PHP / Python / Zig / Golang**  
 - 参与 Workman/Webman 生态与 MQTT、Nacos 等开源项目的开发与维护。
 - Workbunny-Group
 
